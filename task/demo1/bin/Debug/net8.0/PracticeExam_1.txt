@@ -1,0 +1,32 @@
+ChooseOne:  Which keyword is used to define a class in C#?   (2) Mark
+=> Answers: 
+ - define
+ - class
+ - struct
+ - new
+=> CorrectAnswer:  class
+=> Mark: 2
+
+ChooseOne:  What is the default access modifier for a class in C#?   (2) Mark
+=> Answers: 
+ - public
+ - private
+ - protected
+ - internal
+=> CorrectAnswer: internal
+=> Mark: 2
+
+ChooseAll:  Which of the following are value types in C#?    (4) Mark
+=> Answers: 
+ - string
+ - int
+ - bool
+ - object
+=> CorrectAnswer: int,bool
+=> Mark: 4
+
+True/False:  C# supports multiple inheritance for classes.   (2) Mark
+
+=> CorrectAnswer: false
+=> Mark: 2
+

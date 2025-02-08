@@ -1,0 +1,14 @@
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\bin\Debug\net8.0\demo1.exe
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\bin\Debug\net8.0\demo1.deps.json
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\bin\Debug\net8.0\demo1.runtimeconfig.json
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\bin\Debug\net8.0\demo1.dll
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\bin\Debug\net8.0\demo1.pdb
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\obj\Debug\net8.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\obj\Debug\net8.0\demo1.AssemblyInfoInputs.cache
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\obj\Debug\net8.0\demo1.AssemblyInfo.cs
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\obj\Debug\net8.0\demo1.csproj.CoreCompileInputs.cache
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\obj\Debug\net8.0\demo1.dll
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\obj\Debug\net8.0\refint\demo1.dll
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\obj\Debug\net8.0\demo1.pdb
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\obj\Debug\net8.0\demo1.genruntimeconfig.cache
+D:\wab_trak\ITI Full Stack\C#\c#projects\task\demo1\obj\Debug\net8.0\ref\demo1.dll

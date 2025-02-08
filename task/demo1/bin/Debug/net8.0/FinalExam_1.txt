@@ -1,0 +1,46 @@
+True/False: The 'var' keyword in C# allows implicit typing.   (2) Mark
+
+=> CorrectAnswer: true
+=> Mark: 2
+
+True/False: C# is a case-sensitive programming language.   (2) Mark
+
+=> CorrectAnswer: true
+=> Mark: 2
+
+ChooseOne: Which loop is used when the number of iterations is known in advance?   (1) Mark
+=> Answers: 
+ - foreach
+ - while
+ - for
+ - do-while
+=> CorrectAnswer: for
+=> Mark: 1
+
+ChooseOne: Which of the following is NOT a valid access modifier in C#?   (2) Mark
+=> Answers: 
+ - private
+ - protected
+ - internal
+ - external
+=> CorrectAnswer: external
+=> Mark: 2
+
+ChooseAll: Which of the following are value types in C#?   (4) Mark
+=> Answers: 
+ - string
+ - int
+ - bool
+ - object
+=> CorrectAnswer: int,bool
+=> Mark: 4
+
+ChooseAll: Which of the following are reference  types in C#?   (4) Mark
+=> Answers: 
+ - string
+ - int
+ - bool
+ - Array
+=> CorrectAnswer: string,array
+=> Mark: 4
+

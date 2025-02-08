@@ -1,0 +1,11 @@
+header:     question:       Answers:      mark:        correct 
+
+
+ChooseOne: Which keyword is used to define a class in C#?:define, class, struct, new: 2: class
+ChooseOne: What is the default access modifier for a class in C#?:public, private, protected, internal: 2 :internal
+
+ChooseAll: Which of the following are value types in C#? :string, int, bool, object: 4 :int,bool
+
+True/False: C# is a case-sensitive programming language.: True-False: 1 :true
+True/False: C# supports multiple inheritance for classes.: True-False: 2 :false
+True/False: stack is lifo :True-False: 1 :true
